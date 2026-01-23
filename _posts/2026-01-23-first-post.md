@@ -1,6 +1,16 @@
 ---
 title: "Why my eBGP multihop failed"
+layout: single
+toc: true
+toc_label: "On this page"
+toc_sticky: true
+classes: wide
 ---
+**Expectation**
+{:{: .notice--info}
+
+I expected the eBGP session to come up immediately.
+
 
 ## The setup
 Brief topology and goal.
