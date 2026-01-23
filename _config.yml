@@ -1,7 +1,7 @@
 title: Prince Control Plane
 description: Real networking labs, failures, and fixes
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
 markdown: kramdown
-minima:
-  show_excerpts: true
 
+plugins:
+  - jekyll-include-cache
