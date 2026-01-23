@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: single
 title: About
-permalink: /about/
+author_profile: true
 ---
 
-Hi, I’m Prince.
-I write about real networking issues and labs.
+I document real networking issues I face while working with routing,
+firewalls, and infrastructure.
+
+This site is my learning log.
