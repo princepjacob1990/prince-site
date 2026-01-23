@@ -1,11 +1,8 @@
 ---
 layout: home
-title: Home
+author_profile: true
 ---
 
-Welcome.
+Welcome to my lab notes.
 
-This site documents **real networking issues**, labs, and mistakes I’ve made
-while working with routing, firewalls, and infrastructure.
-
-No theory. Only things that broke and how I fixed them.
+I document real networking issues, configs, and postmortems.
