@@ -1,3 +1,4 @@
 title: Prince Control Plane
-description: Real networking labs and notes
+description: Real networking labs, failures, and fixes
 theme: minima
+markdown: kramdown
