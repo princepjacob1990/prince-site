@@ -5,3 +5,9 @@ markdown: kramdown
 
 plugins:
   - jekyll-include-cache
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      classes: wide
