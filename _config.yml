@@ -2,3 +2,6 @@ title: Prince Control Plane
 description: Real networking labs, failures, and fixes
 theme: minima
 markdown: kramdown
+minima:
+  show_excerpts: true
+
