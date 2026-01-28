@@ -1,12 +1,10 @@
 ---
+---
 title: "Why my eBGP multihop failed"
 layout: single
-categories:
-  - routing
-toc: true
-toc_label: "On this page"
-toc_sticky: false
-classes: wide
+routing: true
+---
+
 ---
 **Expectation**
 {:{: .notice--info}
