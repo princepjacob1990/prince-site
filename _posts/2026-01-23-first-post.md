@@ -1,5 +1,4 @@
 ---
----
 title: "Why my eBGP multihop failed"
 layout: single
 routing: true
@@ -7,7 +6,7 @@ routing: true
 
 ---
 **Expectation**
-{:{: .notice--info}
+{: .notice--info}
 
 I expected the eBGP session to come up immediately.
 
