@@ -11,3 +11,13 @@ defaults:
       type: posts
     values:
       classes: wide
+      navigation:
+  - title: "Home"
+    url: /prince-site/
+  - title: "Switching"
+    url: /prince-site/issues/cisco/switches/
+  - title: "Routing"
+    url: /prince-site/issues/cisco/routing/
+  - title: "Security"
+    url: /prince-site/issues/security/
+
