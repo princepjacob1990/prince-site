@@ -9,6 +9,9 @@ classes: wide
 
 Below are real routing issues, labs, and failures I’ve worked on.
 
-{% for post in site.categories.routing %}
-- [{{ post.title }}]({{ post.url }})
+{% for post in site.posts %}
+  {% if post.categories contains "routing" %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+  {% endif %}
 {% endfor %}
+
