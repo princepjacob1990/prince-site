@@ -1,8 +1,12 @@
----
-layout: home
-author_profile: true
----
+## Topics
 
-Welcome to my lab notes.
+### Networking
+- [Cisco Switching Issues](/prince-site/issues/cisco/switches/)
+- [Routing Labs](/prince-site/issues/cisco/routing/)
 
-I document real networking issues, configs, and postmortems.
+### Security
+- [Firewall Troubleshooting](/prince-site/issues/security/firewall/)
+
+### Cloud (coming soon)
+- AWS Networking
+- Load Balancers
